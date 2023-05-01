@@ -1,0 +1,12 @@
+{
+  "name": "weather-forecast",
+  "version": "1.0.0",
+  "description": "forecaster",
+  "main": "index.js",
+  "scripts": {
+    "build":"./build.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
